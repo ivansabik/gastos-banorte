@@ -1,0 +1,11 @@
+{
+    "require": {
+        "ivansabik/dom-hunter": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ivanrodriguez/dom-hunter"
+        }
+    ]
+}
