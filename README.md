@@ -1,4 +1,4 @@
-Buynorthe
+Buynorte
 ===================
 
 Pequeña clase con app de ejemplo para obtener las notificaciones de compra de Banorte que se envían al mail.
