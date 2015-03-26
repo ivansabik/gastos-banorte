@@ -1,0 +1,145 @@
+[
+    {
+        "name": "faisalman/simple-excel-php",
+        "version": "v0.3.15",
+        "version_normalized": "0.3.15.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/faisalman/simple-excel-php.git",
+            "reference": "c392d9ee34cce210f034c9a9ef814f635320351c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/faisalman/simple-excel-php/zipball/c392d9ee34cce210f034c9a9ef814f635320351c",
+            "reference": "c392d9ee34cce210f034c9a9ef814f635320351c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2013-03-21 19:48:38",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "SimpleExcel\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Faisal Salman",
+                "email": "fyzlman@gmail.com",
+                "homepage": "http://faisalman.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "Easily parse / convert / write between Microsoft Excel XML / CSV / TSV / HTML / JSON / etc formats",
+        "homepage": "http://faisalman.github.com/simple-excel-php",
+        "keywords": [
+            "converter",
+            "csv",
+            "document",
+            "excel",
+            "html",
+            "json",
+            "parser",
+            "spreadsheet",
+            "tsv",
+            "writer",
+            "xml"
+        ]
+    },
+    {
+        "name": "sunra/php-simple-html-dom-parser",
+        "version": "v1.5.0",
+        "version_normalized": "1.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sunra/php-simple-html-dom-parser.git",
+            "reference": "a0b80ace086c7e09085669205e1b3c2c9c7a453c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sunra/php-simple-html-dom-parser/zipball/a0b80ace086c7e09085669205e1b3c2c9c7a453c",
+            "reference": "a0b80ace086c7e09085669205e1b3c2c9c7a453c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "time": "2013-05-04 14:32:03",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Sunra\\PhpSimple\\HtmlDomParser": "Src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Sunra",
+                "email": "sunra@yandex.ru",
+                "homepage": "http://github.com/sunra"
+            }
+        ],
+        "description": "Composer adaptation of: A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way! Require PHP 5+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",
+        "homepage": "https://github.com/sunra/php-simple-html-dom-parser",
+        "keywords": [
+            "dom",
+            "html",
+            "parser"
+        ]
+    },
+    {
+        "name": "ivansabik/dom-hunter",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ivansabik/dom-hunter.git",
+            "reference": "5c476efb5784ff2a639956593ea338c29184665c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ivansabik/dom-hunter/zipball/5c476efb5784ff2a639956593ea338c29184665c",
+            "reference": "5c476efb5784ff2a639956593ea338c29184665c",
+            "shasum": ""
+        },
+        "require": {
+            "sunra/php-simple-html-dom-parser": "v1.5.0"
+        },
+        "time": "2014-08-18 17:51:52",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Ivansabik\\DomHunter": "src/"
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ivan Rodriguez",
+                "email": "ivan.rodriguez.o@gmail.com"
+            }
+        ],
+        "description": "Toolkit that helps in creating custom APIs using cURL HTTP requests and crawling thru the DOM",
+        "support": {
+            "source": "https://github.com/ivansabik/dom-hunter/tree/master",
+            "issues": "https://github.com/ivansabik/dom-hunter/issues"
+        }
+    }
+]
