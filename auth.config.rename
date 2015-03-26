@@ -1,6 +1,0 @@
-<?php
-
-# Usuario y pass para GMail, renombrar a auth.config (sin el .rename)
-define('NUTZER', '');
-define('KENN', '');
-?>
