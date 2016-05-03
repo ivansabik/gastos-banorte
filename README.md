@@ -61,3 +61,7 @@ Adicionalmente en el php.ini agregar la extensión ```imap.so```
 ### TODO
 
  - Estadísticas de lugares, fechas, montos
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ivansabik/gastos-banorte-json-excel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
